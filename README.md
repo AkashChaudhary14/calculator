@@ -2,6 +2,10 @@
 
 A simple, responsive calculator built with plain HTML, CSS, and JavaScript.
 
+## Live Demo
+
+- [https://calculator-lovat-six-75.vercel.app](https://calculator-lovat-six-75.vercel.app)
+
 ## Features
 
 - Basic arithmetic: addition, subtraction, multiplication, division
